@@ -1,9 +1,4 @@
-// Twilight Oath
-// Blah blah
-//notes: fuck yo mama
+//Twilight Oath
 dimwishlist:item=1874424704&perks=968510818,555281244
-
-// Retold Tale
-// Blah blah
-//notes: fuck yo mama
+//Retold Tale
 dimwishlist:item=871900124&perks=1556840489,2679249093
