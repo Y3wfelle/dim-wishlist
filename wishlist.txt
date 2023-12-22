@@ -11,3 +11,5 @@ dimwishlist:item=2026755633&perks=1820235745,95528736
 //Lethal Abundance
 dimwishlist:item=2189073092&perks=3619207468,365154968
 dimwishlist:item=2189073092&perks=3619207468,831391274
+//Vengeful Whisper
+dimwishlist:item=839344841&perks=3365897133,831391274
