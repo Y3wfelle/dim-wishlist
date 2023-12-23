@@ -32,3 +32,10 @@ dimwishlist:item=2680976411&perks=1631667848,1782407750
 dimwishlist:item=1151688091&perks=2010801679,2173046394
 //Undercurrnet (Adept)
 dimwishlist:item=672957262&perks=2010801679,2173046394
+//Waking Vigil
+dimwishlist:item=3723679465&perks=1168162263,2173046394
+//Vouchsafe
+dimwishlist:item=355922321&perks=776531651,2048641572
+dimwishlist:item=355922321&perks=1354429876,3038247973
+//Indebted Kindness
+dimwishlist:item=3381450498&perks=1556840489,2173046394
