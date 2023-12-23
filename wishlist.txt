@@ -13,3 +13,12 @@ dimwishlist:item=2189073092&perks=3619207468,365154968
 dimwishlist:item=2189073092&perks=3619207468,831391274
 //Vengeful Whisper
 dimwishlist:item=839344841&perks=3365897133,831391274
+//Stay Frosty
+dimwishlist:item=1891321753&perks=1195158366,124408337
+//Riiswalker
+dimwishlist:item=1764868900&perks=2450788523,438098033
+//Naeem's Lance
+dimwishlist:item=2806569825&perks=831391274,555281244
+//Cold Front
+dimwishlist:item=3206190066&perks=1820235745,4104185692
+dimwishlist:item=3206190066&perks=3418782618,3425386926
