@@ -1,7 +1,8 @@
 title:Team Forta Wishlist
 description:heehoo funny
 
-// Undercurrent (Adept) ()
+// Undercurrent (Adept) (pve)
+//notes: tags:pve
 dimwishlist:item=672957262&perks=1556840489,2173046394
 dimwishlist:item=672957262&perks=1556840489,4049631843
 dimwishlist:item=672957262&perks=1583705720,2173046394
