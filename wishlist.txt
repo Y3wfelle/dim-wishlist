@@ -1,70 +1,30 @@
-//Breakneck
+title:DIM Wishlist
+description:heehoo funny
+
+// Breakneck (pve)
+//notes: tags:pve
 dimwishlist:item=2026755633&perks=1820235745,95528736
+dimwishlist:item=2026755633&perks=1820235745,3891536761
+dimwishlist:item=2026755633&perks=3619207468,95528736
+dimwishlist:item=2026755633&perks=3619207468,3891536761
 
-//Lethal Abundance
+
+// Lethal Abundance (pve)
+//notes: tags:pve
+dimwishlist:item=2189073092&perks=923806249,365154968
+dimwishlist:item=2189073092&perks=923806249,95528736
+dimwishlist:item=2189073092&perks=923806249,831391274
 dimwishlist:item=2189073092&perks=3619207468,365154968
+dimwishlist:item=2189073092&perks=3619207468,95528736
 dimwishlist:item=2189073092&perks=3619207468,831391274
+dimwishlist:item=2189073092&perks=3828510309,365154968
+dimwishlist:item=2189073092&perks=3828510309,95528736
+dimwishlist:item=2189073092&perks=3828510309,831391274
 
-//Tigerspite
-dimwishlist:item=2465372924&perks=1820235745,3891536761
 
-//Vengeful Whisper
-dimwishlist:item=839344841&perks=3365897133,831391274
+// Lethal Abundance (pvp)
+//notes: tags:pvp
+dimwishlist:item=2189073092&perks=1359896290,365154968
+dimwishlist:item=2189073092&perks=3619207468,365154968
 
-// Scatter Signal - overflow,slice / controlled burst
-dimwishlist:item=2558925366&perks=923806249,2594592626
-dimwishlist:item=2558925366&perks=3643424744,2594592626
 
-//BELISARIUS-D
-dimwishlist:item=2313726158&perks=3619207468,460017080
-
-//Stay Frosty
-dimwishlist:item=1891321753&perks=1195158366,124408337
-
-//Imperative
-dimwishlist:item=2045811635&perks=247725512,3891536761
-dimwishlist:item=2045811635&perks=247725512,3038247973
-
-//Riiswalker
-dimwishlist:item=1764868900&perks=2450788523,438098033
-
-//Naeem's Lance
-dimwishlist:item=2806569825&perks=831391274,555281244
-
-//Cold Front
-dimwishlist:item=3206190066&perks=1820235745,4104185692
-dimwishlist:item=3206190066&perks=3418782618,3425386926
-
-//Ros Arago IV
-dimwishlist:item=3583275737&perks=3418782618,95528736
-
-//Glacioclasm
-dimwishlist:item=2728851518&perks=3643424744,1427256713
-
-//Albedo Wing
-dimwishlist:item=2680976411&perks=1631667848,1782407750
-
-//Undercurrent
-dimwishlist:item=1151688091&perks=2010801679,2173046394
-
-//Undercurrnet (Adept)
-dimwishlist:item=672957262&perks=2010801679,2173046394
-
-//Waking Vigil
-dimwishlist:item=3723679465&perks=1168162263,2173046394
-
-//Vouchsafe
-dimwishlist:item=355922321&perks=776531651,2048641572
-dimwishlist:item=355922321&perks=1354429876,3038247973
-
-//Retold Tale - lead from gold/one-two-punch
-dimwishlist:item=871900124&perks=1556840489,2679249093
-
-//Indebted Kindness
-dimwishlist:item=3381450498&perks=1556840489,2173046394
-
-//Twilight Oath - envious assassin/precision instrument
-dimwishlist:item=1874424704&perks=968510818,555281244
-
-//Sleepless
-dimwishlist:item=2140635451&perks=3300816228,2396489472
