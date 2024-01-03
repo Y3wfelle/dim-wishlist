@@ -19,6 +19,11 @@ dimwishlist:item=839344841&perks=3365897133,555281244
 dimwishlist:item=839344841&perks=3365897133,2652708987
 
 
+// Cataphract GL3 (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=874623537&perks=968510818,3078487919
+
+
 // Undercurrent (pve)
 //notes: tags:pve
 dimwishlist:item=1151688091&perks=1583705720,2173046394
@@ -29,6 +34,22 @@ dimwishlist:item=1151688091&perks=1556840489,2173046394
 dimwishlist:item=1151688091&perks=1556840489,4049631843
 
 
+// Subjunctive (pve)
+//notes: tags:pve
+dimwishlist:item=1447836603&perks=1583705720,4049631843
+dimwishlist:item=1447836603&perks=1583705720,2173046394
+dimwishlist:item=1447836603&perks=1820235745,4049631843
+dimwishlist:item=1447836603&perks=1820235745,2173046394
+dimwishlist:item=1447836603&perks=4071163871,4049631843
+dimwishlist:item=1447836603&perks=4071163871,2173046394
+
+
+// Doomed Petitioner (pve)
+//notes: tags:pve
+dimwishlist:item=1501688142&perks=968510818,555281244
+dimwishlist:item=1501688142&perks=1523832109,555281244
+
+
 // Riiswalker (pvp)
 //notes: tags:pvp
 dimwishlist:item=1764868900&perks=3436462433,47981717
@@ -37,6 +58,19 @@ dimwishlist:item=1764868900&perks=3161816588,47981717
 dimwishlist:item=1764868900&perks=3161816588,591790007
 dimwishlist:item=1764868900&perks=1821614984,47981717
 dimwishlist:item=1764868900&perks=1821614984,591790007
+
+
+// Uzume RR4 (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=1891996599&perks=1354429876,555281244
+dimwishlist:item=1891996599&perks=1354429876,1546637391
+dimwishlist:item=1891996599&perks=2284787283,555281244
+dimwishlist:item=1891996599&perks=2284787283,1546637391
+
+
+// Uzume RR4 (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=1891996599&perks=1556840489,1546637391
 
 
 // Breakneck (pve)
@@ -82,15 +116,45 @@ dimwishlist:item=2313726158&perks=3619207468,460017080
 dimwishlist:item=2313726158&perks=3619207468,588594999
 
 
+// Uzume RR4 (pve)
+//notes: tags:pve
+dimwishlist:item=2450917538&perks=1354429876,555281244
+dimwishlist:item=2450917538&perks=1354429876,1546637391
+dimwishlist:item=2450917538&perks=2284787283,555281244
+dimwishlist:item=2450917538&perks=2284787283,1546637391
+
+
+// Uzume RR4 (pve)
+//notes: tags:pve
+dimwishlist:item=2450917538&perks=1556840489,1546637391
+
+
 // Scatter Signal (pve)
 //notes: tags:pve
 dimwishlist:item=2558925366&perks=923806249,2594592626
 dimwishlist:item=2558925366&perks=3643424744,2594592626
 
 
+// Cataphract GL3 (pve)
+//notes: tags:pve
+dimwishlist:item=2738601016&perks=968510818,3078487919
+
+
+// Nox Perennial V (pve)
+//notes: tags:pve
+dimwishlist:item=2767393525&perks=968510818,2594592626
+dimwishlist:item=2767393525&perks=1556840489,2594592626
+
+
 // Naeem's Lance (pve)
 //notes: tags:pve
 dimwishlist:item=2806569825&perks=1523832109,555281244
+
+
+// Optative (pve)
+//notes: tags:pve
+dimwishlist:item=2817683783&perks=247725512,1015611457
+dimwishlist:item=2817683783&perks=3619207468,1015611457
 
 
 // Indebted Kindness (pve)
@@ -108,5 +172,17 @@ dimwishlist:item=3583275737&perks=3418782618,3993379141
 //notes: tags:pve
 dimwishlist:item=3583275737&perks=3418782618,95528736
 dimwishlist:item=3583275737&perks=1820235745,95528736
+
+
+// Parabellum (pve)
+//notes: tags:pve
+dimwishlist:item=3926811686&perks=3418782618,4104185692
+dimwishlist:item=3926811686&perks=3828510309,4104185692
+dimwishlist:item=3926811686&perks=3017780555,4104185692
+
+
+// Marcato-45 (pve)
+//notes: tags:pve
+dimwishlist:item=4233375372&perks=3400784728,95528736
 
 
